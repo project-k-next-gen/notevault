@@ -1609,7 +1609,34 @@ const NOTES_DATA = [
     author: "By Project K & Team",
     contributed: false,
     source: "files/database_management_systems.pdf"
-  }
+  },
+    {
+  "id": 17,
+  "title": "Electronic Devices and Circuits",
+  "stream": "Engineering",
+  "course": "Electronics and Communication Engineering",
+  "year": 2,
+  "semester": 3,
+  "subject": "Electronic Devices and Circuits",
+  "topics": [
+    "Semiconductor Physics",
+    "PN Junction Diode",
+    "Zener Diode and Applications",
+    "Bipolar Junction Transistor (BJT)",
+    "Transistor Biasing",
+    "Field Effect Transistors (FET)",
+    "MOSFET Fundamentals",
+    "Rectifiers and Filters",
+    "Clippers and Clampers",
+    "Introduction to Amplifiers"
+  ],
+  "fileType": "PDF",
+  "fileSize": "3.4 MB",
+  "pages": 190,
+  "author": "By Project K & Team",
+  "contributed": false,
+  "source": "files/electronic_devices_and_circuits.pdf"
+}
 ];
 
 class NoteVaultApp {
